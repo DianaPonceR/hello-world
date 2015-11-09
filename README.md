@@ -1,2 +1,4 @@
 # hello-world
-My second repository
+My second project
+
+Finished.
