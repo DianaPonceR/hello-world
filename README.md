@@ -1,2 +1,4 @@
 # hello-world
-My second repository
+Another repository
+
+GitHub is great!
