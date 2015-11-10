@@ -6,5 +6,7 @@ Finished.
 =======
 Another repository
 
-GitHub is great!
+GitHub is great! and I like it!
+
+Diony Rosas.
 >>>>>>> master
